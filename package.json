@@ -1,5 +1,5 @@
 {
-  "name": "bo-lo-debounce",
+  "name": "bo-zoomer",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -12,6 +12,7 @@
   "author": "ttt",
   "license": "MIT",
   "dependencies": {
-    "lodash": "^4.17.21"
+    "lodash": "^4.17.21",
+    "vue": "^3.2.39"
   }
 }
