@@ -1,3 +1,3 @@
-import { debounce } from 'lodash';
+import Zoomer from './src/index.vue'
 
-export const boDebounce = debounce;
+export default Zoomer;
