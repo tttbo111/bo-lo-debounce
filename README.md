@@ -29,8 +29,6 @@ import Zoomer from 'bo-zoomer';
 .goods-detail-zoomer {
   width: 400px;
   height: 400px;
-  margin: 150px;
-  margin-bottom: 9999px;
 }
 </style>
 ```
