@@ -1,6 +1,6 @@
 {
-  "name": "bo-zoomer",
-  "version": "1.0.0",
+  "name": "zoomer-vue3",
+  "version": "1.0.55",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -13,7 +13,8 @@
   "author": "ttt",
   "license": "MIT",
   "dependencies": {
-    "lodash": "^4.17.21",
+    "lodash-es": "^4.17.21",
+    "sass": "^1.54.9",
     "vue": "^3.2.39"
   }
 }

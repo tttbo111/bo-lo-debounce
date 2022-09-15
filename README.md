@@ -4,7 +4,7 @@ zoomer/vue3
 ```
 # 安装
 ```txt
-npm i bo-zoomer
+npm i zoomer-vue3
 ```
 # 使用
 ```vue
